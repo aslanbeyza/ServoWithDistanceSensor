@@ -7,11 +7,6 @@ This project demonstrates how to control a servo motor based on the distance mea
 - Controls a servo motor to move based on distance thresholds.
 - Prints distance data to the Serial Monitor.
 
-## Video Demonstration
-Click the link below to watch the demonstration of this project:
-
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://github.com/beyzaaslan/ServoWithDistanceSensor/blob/main/MyArdunioProject.mp4)
-
 Alternatively, download and view the video directly:
 [MyArdunioProject.mp4](https://github.com/beyzaaslan/ServoWithDistanceSensor/blob/main/MyArdunioProject.mp4)
 
